@@ -7,7 +7,7 @@ This repo publishes one reusable `skills.sh` skill for modern Kotlin and Android
 ## Install from GitHub
 
 ```bash
-npx skills add priyanshuchawda/kotlin-master-skill --skill kotlin-master
+npx skills add priyanshuchawda/kotlin-master --skill kotlin-master
 ```
 
 ## Test locally
